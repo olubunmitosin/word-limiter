@@ -16,7 +16,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 function word_limiter_default_options () {
 	return array (
 		'default_message'   => "Maximum words allowed",
-		'returned_message'  => '<p class="return_message">You have exceeded</p>',
+		'returned_message'  => 'You have exceeded',
 		'number_of_words'   => 100,
 		'enter_less'        => 'no',
 	);
