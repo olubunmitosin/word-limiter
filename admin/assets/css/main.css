@@ -1,0 +1,13 @@
+/* future Css style will go into this file */
+
+#word-limiter-container {
+    background-color: #fff;
+    width: 100%;
+    display: inline-block;
+    border: 1px #f5f5f5 solid;
+    text-align: center;
+    color: red;
+    position: sticky;
+    top:0;
+    z-index: 999;
+}
